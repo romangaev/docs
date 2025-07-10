@@ -39,19 +39,7 @@
         "groups": [
           {
             "group": "API Documentation",
-            "openapi": "openapi.json",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "openapi": "openapi.json"
           }
         ]
       }
