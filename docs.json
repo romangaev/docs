@@ -36,9 +36,12 @@
       },
       {
         "tab": "API Reference",
-        "group": "API reference",
-        "openapi": "openapi.json"
-
+        "groups": [
+          {
+           "group": "API reference",
+          "openapi": "openapi.json"
+          }
+        ]
       }
     ],
     "global": {
